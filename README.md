@@ -15,7 +15,7 @@ I am a passionate developer with a diverse skill set and a love for solving comp
 
 ## My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudyshoes&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudy-in&show_icons=true&theme=radical)
 
 <br>
 <br>
