@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm RudyShoes
+# Hi there! 👋 I'm Rudy!
 
 
 
