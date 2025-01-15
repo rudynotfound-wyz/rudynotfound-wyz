@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+</head>
+<body>
+ 
+    <style>
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.grid {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+  background-image: 
+    linear-gradient(to right, #ebdbb2bd 1px, transparent 1px),
+    linear-gradient(to bottom, #ebebebc2 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+body {
+  background-image: 
+    linear-gradient(to bottom, #fbf1c7 0.5px, transparent 0.5px), 
+    linear-gradient(to right, #fbf1c7 0.5px, transparent 0.5px);
+  background-size: 20px 20px;
+  background-repeat: repeat; 
+}
+    </style>
+
+    <nav class="bg-neutral-900/50 fixed top-[20px] rounded-full left-[50%] translate-x-[-50%] z-10 backdrop-blur-lg h-14 flex items-center">
+        <div class="px-[28px] flex gap-[44px] items-center justify-center w-full">
+            <a class="text-base font-bold duration-200 text-amber-100" href="/" name="Home" about="Home">Home</a>
+            <a class="text-base font-bold duration-200 text-amber-100/75 hover:text-amber-100 hover:duration-200" href="/projects" name="Projects" about="Know about me">About</a>
+            <a class="text-base font-bold duration-200 text-amber-100/75 hover:text-amber-100 hover:duration-200" href="/blog" name="Blog" about="Know about the projects i've worked on">Projects</a>
+            <a class="text-base font-bold duration-200 text-amber-100/75 hover:text-amber-100 hover:duration-200" href="/forum" name="Forum" about="Know about the projects I worked on">My Experience</a>
+            <a class="text-base font-bold duration-200 text-amber-100/75 hover:text-amber-100 hover:duration-200" href="/gallery" name="Gallery" about="Cat pics and stuff probably very random">Gallery</a>
+        </div>
+    </nav>
+    <div
+    class="absolute inset-0 h-full w-full bg-zinc-900 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]"
+  >
+<section class="text-amber-100 body-font">
+    <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
+      <img class="lg:w-1/4 md:w-2/6 w-4/6 mb-10 object-cover object-center rounded-full" alt="hero" src="https://avatars.githubusercontent.com/u/90951877?v=4">
+      <div class="text-center lg:w-2/3 w-full">
+        <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-amber-100">Hallo Everyone!</h1>
+        <p class="leading-relaxed mb-8">This is my webpage! Where i post weird stuff i find on the internet and my projects and about me , it contains everything you need to know about me and my life</p>
+        <div class="flex justify-center gap-x-4 mb-8">
+            <a href="https://github.com/rudy-in" target="_blank">
+            <button class="inline-flex items-center text-amber-100 font-bold bg-gray-700 border-0 py-2 px-6 focus:outline-none hover:bg-gray-800 rounded-full text-lg">
+                <i class="fab fa-github mr-2 text-lg"></i> GitHub
+            </button>
+        </a>
+            <button class="inline-flex items-center text-amber-100 font-bold bg-gray-700 border-0 py-2 px-6 focus:outline-none hover:bg-gray-800 rounded-full text-lg">
+                <i class="fab fa-discord mr-2 text-lg"></i> Discord
+            </button>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+</body>
+</html>

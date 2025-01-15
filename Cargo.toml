@@ -1,0 +1,10 @@
+[package]
+name = "myweb"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "myweb"
+path = "main.rs"
