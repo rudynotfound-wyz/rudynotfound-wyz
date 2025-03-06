@@ -5,4 +5,6 @@
 --
 [![trophy](https://github-profile-trophy.vercel.app/?username=rudy-in&theme=gruvbox)](https://github.com/rudy-in)
 --
+[![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-in&show_icons=true&theme=onedark)](https://github.com/rudy-in)
+--
 ![snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-light.svg)
