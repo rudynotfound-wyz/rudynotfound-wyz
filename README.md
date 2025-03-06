@@ -5,4 +5,4 @@
 --
 EOF
 --
-![snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-dark.svg)
+![snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-light.svg)
