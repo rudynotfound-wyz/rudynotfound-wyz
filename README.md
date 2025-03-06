@@ -4,3 +4,5 @@
 "Rust brings complications, C/C++ brings freedom" ~ Rudy
 --
 EOF
+--
+[!snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-dark.svg)
