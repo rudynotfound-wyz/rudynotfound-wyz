@@ -11,6 +11,6 @@
 
 ---
 # Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,zig,c,cpp,go,python,linux,bash,windows,nodejs,figma,lua,kotlin,cmake,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,rust,zig,c,cpp,go,python,linux,bash,windows,nodejs,figma,lua,kotlin,cmake,docker,arch,arduino,discord,discordjs,firebase,flutter,gmail,git,github,vscode,vim,vscodium,obsidian,nix,tailwind,unity,unreal,blender,vercel)](https://skillicons.dev)
 ---
 ![snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-light.svg)
