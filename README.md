@@ -5,7 +5,7 @@
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=rudy-in&theme=gruvbox)](https://github.com/rudy-in)
 
-[![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-in&show_icons=true&theme=onedark)](https://github.com/rudy-in)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy-in&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api?username=rudy-in&show_icons=true&theme=onedark"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy-in&layout=compact&theme=onedark" />
 --
 ![snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-light.svg)
