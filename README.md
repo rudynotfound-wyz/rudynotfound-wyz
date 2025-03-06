@@ -10,4 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy-in&layout=compact&theme=onedark" />
 
 ---
+# Technology Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,zig,c,cpp,go,python,linux,bash,windows,nodejs,figma,lua,kotlin,cmake,docker)](https://skillicons.dev)
+---
 ![snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-light.svg)
