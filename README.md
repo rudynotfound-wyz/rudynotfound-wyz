@@ -3,6 +3,6 @@
 --
 "Rust brings complications, C/C++ brings freedom" ~ Rudy
 --
-EOF
+[![trophy](https://github-profile-trophy.vercel.app/?username=rudy-in&theme=gruvbox)](https://github.com/rudy-in)
 --
 ![snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-light.svg)
