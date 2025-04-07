@@ -39,9 +39,9 @@ Rust is good , so is C/C++
 ```
 ## Project Roadmap
 A bunch of stuff im working on
-[] Browser Engine (rust, c, c++ and zig mainly)
-[] Web Browser (same stuff, may require more in it)
-[] An OS (Rust, Zig, C/C++, x86 Assembly)
-[] A Programming Language (C/C++, LLVM)
+- [] Browser Engine (rust, c, c++ and zig mainly)
+- [] Web Browser (same stuff, may require more in it)
+- [] An OS (Rust, Zig, C/C++, x86 Assembly)
+- [] A Programming Language (C/C++, LLVM)
 
 ![snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-light.svg)
