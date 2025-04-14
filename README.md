@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Rudy!
-Rust is good , so is C/C++
+Wyzer is good , so are C/C++ because of interop for them :)
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=rudy-in&theme=gruvbox)](https://github.com/rudy-in)
