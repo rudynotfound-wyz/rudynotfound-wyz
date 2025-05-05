@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Rudy!
-Wyzer is good , so are C/C++ because of interop for them :)
+
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=rudy-in&theme=gruvbox)](https://github.com/rudy-in)
@@ -78,10 +78,9 @@ _____
 (All this is useless for you to know but good for me to add them)
 ---
 ## Project Roadmap
-A bunch of stuff im working on
-- [] Browser Engine (rust, c, c++ and zig mainly)
-- [] Web Browser (same stuff, may require more in it)
-- [] An OS (Rust, Zig, C/C++, x86 Assembly)
-- [] A Programming Language (C/C++, LLVM)
+A bunch of stuff im working on:
+- [ ] [RadianOS](https://github.com/RadianOS/radianos)
+- [ ] rutils (Core Utils for RadianOS)
+
 
 ![snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-light.svg)
