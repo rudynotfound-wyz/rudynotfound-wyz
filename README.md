@@ -80,7 +80,7 @@ _____
 ## Project Roadmap
 A bunch of stuff im working on:
 - [ ] [RadianOS](https://github.com/RadianOS/radianos)
-- [ ] rutils (Core Utils for RadianOS)
+- [ ] libxnotch (Core Utils library for RadianOS)
 
 
 ![snakegif](https://github.com/rudy-in/rudy-in/blob/assets/snake-light.svg)
