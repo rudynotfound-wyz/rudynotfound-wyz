@@ -9,7 +9,7 @@
 
 ---
 # Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,rust,zig,c,cpp,go,python,linux,bash,windows,nodejs,figma,lua,kotlin,cmake,docker,arch,arduino,discord,discordjs,firebase,flutter,gmail,git,github,vscode,vim,vscodium,obsidian,nix,tailwind,unity,unreal,blender,vercel,bsd,cs,dart,debian,gradle,androidstudio,anaconda,mongodb,netlify,nextjs,raspberrypi,robloxstudio,gtk,kali,md,mysql,npm,notion,perl,php,postgres,qt,replit,svelte,tauri,tensorflow,vala,vite,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,rust,zig,c,cpp,go,python,linux,bash,windows,nodejs,figma,lua,kotlin,cmake,docker,arch,arduino,discord,discordjs,firebase,flutter,gmail,git,github,vscode,vim,vscodium,obsidian,nix,tailwind,unity,unreal,blender,vercel,bsd,cs,dart,debian,gradle,androidstudio,anaconda,mongodb,netlify,nextjs,raspberrypi,robloxstudio,gtk,kali,md,mysql,npm,notion,perl,php,postgres,qt,replit,svelte,tauri,tensorflow,vala,vite,wasm)](https://skillicons.dev)
 ---
 # System Info
 ```
