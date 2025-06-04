@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rudy!
 
-
+A good rustacean!
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=rudy-in&theme=gruvbox)](https://github.com/rudy-in)
 
