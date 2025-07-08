@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rudy!
 
-You are cool!
+Rust: The Garbage inside of the Garbage collector
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=rudy-in&theme=gruvbox)](https://github.com/rudy-in)
 
