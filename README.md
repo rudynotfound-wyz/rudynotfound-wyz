@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rudy!
 
-Writing a book on Rust
+trying to learn rust
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=rudy-in&theme=gruvbox)](https://github.com/rudy-in)
 
@@ -9,7 +9,7 @@ Writing a book on Rust
 
 ---
 # Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,rust,zig,c,cpp,go,python,linux,bash,windows,nodejs,figma,lua,kotlin,cmake,docker,arch,arduino,discord,discordjs,firebase,flutter,gmail,git,github,vscode,vim,vscodium,obsidian,nix,tailwind,unity,unreal,blender,vercel,bsd,cs,dart,debian,ubuntu,gradle,androidstudio,anaconda,mongodb,netlify,nextjs,raspberrypi,robloxstudio,gtk,kali,md,mysql,npm,notion,perl,php,postgres,qt,replit,svelte,tauri,tensorflow,vala,vite,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,zig,c,cpp,go,python,linux,bash,windows,nodejs,figma,lua,kotlin,cmake,docker,arch,arduino,discord,discordjs,firebase,flutter,git,github,vscode,vim,vscodium,obsidian,nix,tailwind,unity,unreal,blender,vercel,bsd,dart,debian,ubuntu,gradle,androidstudio,anaconda,mongodb,netlify,nextjs,raspberrypi,robloxstudio,gtk,kali,md,mysql,npm,notion,perl,php,postgres,qt,replit,svelte,tauri,tensorflow,vite)](https://skillicons.dev)
 ---
 # System Info
 ```
