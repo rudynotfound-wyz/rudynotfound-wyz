@@ -8,8 +8,13 @@ trying to learn rust
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy-in&layout=compact&theme=onedark" />
 
 ---
-# Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,zig,c,cpp,go,python,linux,bash,windows,nodejs,figma,lua,kotlin,cmake,docker,arch,arduino,discord,discordjs,firebase,flutter,git,github,vscode,vim,vscodium,obsidian,nix,tailwind,unity,unreal,blender,vercel,bsd,dart,debian,ubuntu,gradle,androidstudio,anaconda,mongodb,netlify,nextjs,raspberrypi,robloxstudio,gtk,kali,md,mysql,npm,notion,perl,php,postgres,qt,replit,svelte,tauri,tensorflow,vite)](https://skillicons.dev)
+## 🧰 Tech Toolbox
+
+| Languages | Tools & Frameworks | Dev & Design | OS & Environments |
+|----------|--------------------|--------------|-------------------|
+| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go) ![Zig](https://skillicons.dev/icons?i=zig) ![Rust](https://skillicons.dev/icons?i=rust) ![Python](https://skillicons.dev/icons?i=python) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Astro](https://skillicons.dev/icons?i=astro) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Svelte](https://skillicons.dev/icons?i=svelte) ![Tauri](https://skillicons.dev/icons?i=tauri) | ![Figma](https://skillicons.dev/icons?i=figma) ![Vim](https://skillicons.dev/icons?i=vim) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Obsidian](https://skillicons.dev/icons?i=obsidian) | ![Linux](https://skillicons.dev/icons?i=linux) ![Arch](https://skillicons.dev/icons?i=arch) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Debian](https://skillicons.dev/icons?i=debian) |
+| ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Lua](https://skillicons.dev/icons?i=lua) ![Dart](https://skillicons.dev/icons?i=dart) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![Bash](https://skillicons.dev/icons?i=bash) | ![Flutter](https://skillicons.dev/icons?i=flutter) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Docker](https://skillicons.dev/icons?i=docker) ![CMake](https://skillicons.dev/icons?i=cmake) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Replit](https://skillicons.dev/icons?i=replit) ![Notion](https://skillicons.dev/icons?i=notion) | ![Nix](https://skillicons.dev/icons?i=nix) ![BSD](https://skillicons.dev/icons?i=bsd) ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) ![Kali](https://skillicons.dev/icons?i=kali) |
+
 ---
 # System Info
 ```
