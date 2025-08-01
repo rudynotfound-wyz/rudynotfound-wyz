@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Rudy!
-🌱 Currently learning **Rust** | 🐧 Arch Linux enthusiast | 🛠️ Systems tinkerer
+Compiler Theory is kinda tough
 
 
 ## 🏆 GitHub Highlights
