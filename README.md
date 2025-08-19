@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Rudy!
-Compiler Theory is kinda tough
+Leaving Github for the greatest?
 
 
 ## 🏆 GitHub Highlights
