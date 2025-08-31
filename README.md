@@ -5,7 +5,7 @@ Leaving Github for the greatest?
 ## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudy-in&theme=gruvbox&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rudynotfound-wyz&theme=gruvbox&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -13,8 +13,8 @@ Leaving Github for the greatest?
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudy-in&show_icons=true&theme=onedark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy-in&layout=compact&theme=onedark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rudynotfound-wyz&show_icons=true&theme=onedark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudynotfound-wyz&layout=compact&theme=onedark&hide_border=true" height="150"/>
 </p>
 
 ---
